@@ -1,10 +1,9 @@
-# Adonis Framework :triangular_ruler:
+![](images/cover.png)
+
+# Adonis Framework
 
 This repo contains the core modules for the AdonisJs framework. You must checkout the source code or the API docs on official website to learn more.
 
-<br />
-<hr />
-<br />
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
@@ -12,7 +11,9 @@ This repo contains the core modules for the AdonisJs framework. You must checkou
 [![Coveralls][coveralls-image]][coveralls-url]
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fadonisjs%2Fadonis-framework.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fadonisjs%2Fadonis-framework?ref=badge_shield)
 
-<img src="https://res.cloudinary.com/adonisjs/image/upload/q_100/v1497112678/adonis-purple_pzkmzt.svg" width="200px" align="right" hspace="30px" vspace="140px">
+
+---
+
 
 ## What's in the box?
 
@@ -98,5 +99,21 @@ Now since the `add` method has a bug, it will return `6` instead of `4`. But the
 [coveralls-url]: https://coveralls.io/github/adonisjs/adonis-framework
 
 
+---
+
+
+- [Website](https://adonisjs.com)
+- [Guides](https://adonisjs.com/docs)
+- [Recipes](https://adonisjs.com/recipes)
+- [Packages](https://adonisjs.com/packages)
+- [Blog](https://adonisjs.svbtle.com)
+- [Screencasts](https://adonisjs.com/screencasts)
+- [Discord](https://discordapp.com/invite/vDcEjq6)
+
+## Contribution
+See [Contribution Guide](https://adonisjs.com/docs/4.1/contribution-guide)
+
 ## License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fadonisjs%2Fadonis-framework.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fadonisjs%2Fadonis-framework?ref=badge_large)
+
+![](images/sep.png)
