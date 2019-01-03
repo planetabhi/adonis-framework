@@ -108,4 +108,4 @@ Now since the `add` method has a bug, it will return `6` instead of `4`. But the
 ## Contribution
 See [Contribution Guide](https://adonisjs.com/docs/4.1/contribution-guide)
 
-![](images/sep.png)
+![](images/logo_muted.png)
