@@ -1,19 +1,22 @@
 ![](images/cover.png)
-
-# Adonis Framework
-
-This repo contains the core modules for the AdonisJs framework. You must checkout the source code or the API docs on official website to learn more.
-
-
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Appveyor][appveyor-image]][appveyor-url]
 [![Coveralls][coveralls-image]][coveralls-url]
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fadonisjs%2Fadonis-framework.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fadonisjs%2Fadonis-framework?ref=badge_shield)
 
+# Adonis Framework
+This repo contains the core modules for the AdonisJs framework. You must checkout the source code or the API docs on official website to learn more.
+
+- [Website](https://adonisjs.com)
+- [Guides](https://adonisjs.com/docs)
+- [Recipes](https://adonisjs.com/recipes)
+- [Packages](https://adonisjs.com/packages)
+- [Blog](https://adonisjs.svbtle.com)
+- [Screencasts](https://adonisjs.com/screencasts)
+- [Discord](https://discordapp.com/invite/vDcEjq6)
 
 ---
-
 
 ## What's in the box?
 
@@ -99,21 +102,10 @@ Now since the `add` method has a bug, it will return `6` instead of `4`. But the
 [coveralls-url]: https://coveralls.io/github/adonisjs/adonis-framework
 
 
----
-
-
-- [Website](https://adonisjs.com)
-- [Guides](https://adonisjs.com/docs)
-- [Recipes](https://adonisjs.com/recipes)
-- [Packages](https://adonisjs.com/packages)
-- [Blog](https://adonisjs.svbtle.com)
-- [Screencasts](https://adonisjs.com/screencasts)
-- [Discord](https://discordapp.com/invite/vDcEjq6)
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fadonisjs%2Fadonis-framework.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fadonisjs%2Fadonis-framework?ref=badge_large)
 
 ## Contribution
 See [Contribution Guide](https://adonisjs.com/docs/4.1/contribution-guide)
-
-## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fadonisjs%2Fadonis-framework.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fadonisjs%2Fadonis-framework?ref=badge_large)
 
 ![](images/sep.png)
